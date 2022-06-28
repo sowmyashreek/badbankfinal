@@ -22,6 +22,11 @@ Technology used
 MERN (MongoDB, Express, React, Node.js) + Heroku
 
 Features: Create User/Login, various bank simulated functions (withdraw, deposit, balance, all data, etc.)
+
+
 License: MIT
-![Screenshot (1)](https://user-images.githubusercontent.com/90288071/176125037-81d22579-14ca-41e1-aed0-55a563f51ed2.png)
+
+
+![Screenshot (2)](https://user-images.githubusercontent.com/90288071/176171113-dadd0abc-0672-4e67-95d4-150fae511417.png)
+
 
