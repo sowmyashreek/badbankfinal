@@ -1,5 +1,5 @@
 # Badbank_mern
-https://badbankfinal.herokuapp.com/#/
+
 
 
 Description:
@@ -26,7 +26,14 @@ Features: Create User/Login, various bank simulated functions (withdraw, deposit
 
 License: MIT
 
+![Screenshot (1)](https://user-images.githubusercontent.com/90288071/176186071-fa768958-717c-4415-8fbe-4ef2c29c1711.png)
+
+
+deployed in heroku app as well: https://badbankfinal.herokuapp.com/#/
+
 
 ![Screenshot (2)](https://user-images.githubusercontent.com/90288071/176171113-dadd0abc-0672-4e67-95d4-150fae511417.png)
+
+
 
 
