@@ -1,6 +1,6 @@
 const { MongoClient, ServerApiVersion } = require('mongodb');
-const url ='mongodb://localhost:27017';
-//const url=process.env.MONGO_DB_URI;
+//const url ='mongodb://localhost:27017';
+const url=process.env.MONGO_DB_URI;
 let db = null;
 
 MongoClient.connect(url, { useNewUrlParser: true, useUnifiedTopology: true }, function(err, client) {
