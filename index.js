@@ -92,8 +92,10 @@ app.get('/account/all', function (req, res) {
             res.send(docs);
     });
 });
-
-var port = process.env.PORT || 3000;
+let port = process.env.PORT || 3000;
 app.listen(port, function () {
-    console.log('Server is running on port: ' + port);
+    console.log(`Server is Running on port ${port}`);
+//var port = process.env.PORT || 3000;
+//app.listen(port, function () {
+   // console.log('Server is running on port: ' + port);
 });
