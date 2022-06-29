@@ -4,8 +4,8 @@ var cors    = require('cors');
 let mongodb = require('mongodb');
 
 
-require('dotenv').config();
-console.log(process.env);
+//require('dotenv').config();
+//console.log(process.env);
 
 var dal     = require('./dal.js');
 
