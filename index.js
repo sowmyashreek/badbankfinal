@@ -101,7 +101,7 @@ app.get('/account/all', function (req, res) {
 
 const host = '0.0.0.0';
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
+app.listen(PORT,host, () => {
     console.log(`Our app is running on port ${ PORT }`);
 });
 
