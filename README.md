@@ -31,7 +31,6 @@ License: MIT
 
 deployed in heroku app as well: https://badbankfinal.herokuapp.com/#/
 
-
 ![Screenshot (2)](https://user-images.githubusercontent.com/90288071/176171113-dadd0abc-0672-4e67-95d4-150fae511417.png)
 
 
