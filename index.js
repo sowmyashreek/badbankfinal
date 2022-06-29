@@ -99,6 +99,7 @@ app.get('/account/all', function (req, res) {
 //app.listen(port, function () {
    // console.log('Server is running on port: ' + port);
 
+const host = '0.0.0.0';
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log(`Our app is running on port ${ PORT }`);
