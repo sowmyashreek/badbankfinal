@@ -1,3 +1,6 @@
+require('dotenv').config();
+console.log(process.env);
+
 const { MongoClient, ServerApiVersion } = require('mongodb');
 //const url ='mongodb://localhost:27017';
 const url=process.env.MONGODB_URI;
